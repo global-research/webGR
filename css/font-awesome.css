@@ -1332,6 +1332,10 @@
 .fa-wheelchair:before {
   content: "\f193";
 }
+.fa-whatsapp:before {
+	content: "\f232";
+}
+
 .fa-vimeo-square:before {
   content: "\f194";
 }

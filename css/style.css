@@ -35,7 +35,7 @@ h1,h2, h3, h4, h5, h6 {
 }
  
 .container {
-	padding:0 20px 0 20px;
+	padding:20px 20px 0 20px;
 	position:relative;
 }
 
@@ -425,6 +425,7 @@ section.callaction {
 	padding:50px 0 0px 0;
 }
 
+
 #content img {
 	max-width:100%;
 	height:auto;
@@ -549,14 +550,15 @@ ul.breadcrumb li a:hover {
 ============================ */
 .content_white {
 text-align: center;
-padding: 3em 0;
+padding: 6em 0;
 }
 .content_white {
 text-align: center;
-padding: 3em 0;
+padding: 6em 0;
 }
 .featured_content {
 background: #f6f6f6;
+text-align: center;
 width:100%;
 padding:60px 0;
 }
@@ -595,6 +597,38 @@ outline: none;
 margin-top: 10px;
 /* border-radius: 5px; */
 }
+
+.contact-info .icon-text i.fa-whatsapp {
+    color: #25D366;
+}
+
+.contact-info {
+	background-color: white;
+	padding: 20px;
+	margin-left: 20px; /* Add left margin to move content to the right */
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	border-radius: 8px;
+	text-align: center;
+}
+
+.featured_content2 {
+	background: #f6f6f6;
+	text-align: left;
+	width:100%;
+	padding:60px 0;
+	padding-right: 600x;
+	}
+.featured_content2 h3 a{
+		font-size: 1.1em;
+		color: #555;
+		text-decoration: none;
+		}
+.featured_content2 p {
+		color: #666;
+		font-size: 0.95em;
+		line-height: 1.5em;
+		margin-bottom: 1em;
+		}
 /* Forms
 ============================= */
 
